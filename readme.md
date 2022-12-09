@@ -33,7 +33,7 @@ $ mvn test
 ### End Point:
 http://localhost:8080/api/v1/pricetoapply?applicationDate=2020-06-14T10:00:00&productId=35455&brandId=1
 <br/>para probar el endpoint es recomendable utilizar **Postman** o **Insomnia**
-<br/>para consultar más detalles del endpoint pueden acceder a:
+<br/>para consultar las especificaciones del endpoint pueden acceder a:
 <br/>http://localhost:8080/swagger-ui/index.html
 #### Parametros:
 
